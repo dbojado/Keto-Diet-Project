@@ -4,7 +4,7 @@
 Can we predict if a food is keto friendly?
 
 ## What is a Keto Diet?
-The ketogenic diet (keto) is a low carb, high fat diet. Many studies show that this type of diet can help you lose weight and improve your health.
+The Ketogenic Diet (keto) is a low carb, high fat diet. Many studies show that this type of diet can help you lose weight and improve your health.
 
 
 ## About the Project
