@@ -2,11 +2,11 @@
 ### Can we predict if a food is keto friendly?
 
 ## What is a Keto Diet?
-### The ketogenic diet (keto) is a low carb, high fat diet. Many studies show that this type of diet can help you lose weight and improve your health.
+The ketogenic diet (keto) is a low carb, high fat diet. Many studies show that this type of diet can help you lose weight and improve your health.
 
 
 ## About the Project
-For this project I will be exploring an "nutritional facts" database and using the data to classify whether a food is keto. 
+For this project I will be exploring a "Nutritional Facts" database and using the data to classify whether a food is keto. 
 
 ## Goals
 My goal is to build a model that can predict/classify a food item as "keto friendly".
@@ -21,7 +21,7 @@ My goal is to build a model that can predict/classify a food item as "keto frien
 ## Data Dictionary
 | Feature | Definition |
 |---------------------------|--------------------------------------------------|
-| ketogenic diet (Keto)   | A low carb, high fat diet.|  
+| Ketogenic Diet (Keto)   | A low carb, high fat diet.|  
 | Nutritional Facts/Food Labels   | These labels are found on packaged foods and beverages. They are meant as a tool for making informed food choices that contribute to healthy lifelong eating habits. |  
 | Macronutrients (Macros)   | Carbohydrates, fats, and proteins. They are the nutrients you use in the largest amounts, as opposed to micronutrients, such as a variety of vitamins in food. |  
 | Carbohydrates   | The sugars, starches and fibers found in fruits, grains, vegetables and milk products. |  
@@ -30,7 +30,7 @@ My goal is to build a model that can predict/classify a food item as "keto frien
 
 ## Project Steps
 ### Acquire
-- Data is aquired from Kaggle "Nutritional values for common foods and products" and https://www.nutritionvalue.org.
+- Data is aquired from Kaggle "Nutritional Values for Common Foods and Products" and https://www.nutritionvalue.org.
 - Functions are stored in the acquire.py file.
 - File is a reproducible component for gathering the data.
 
