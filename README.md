@@ -30,7 +30,7 @@ My goal is to build a model that can predict/classify a food item as "keto frien
 
 ## Project Steps
 ### Acquire
-- Data is aquired from Kaggle "Nutritional Values for Common Foods and Products" and https://www.nutritionvalue.org.
+- Data is aquired from Kaggle [("Nutritional Values for Common Foods and Products")](https://www.kaggle.com/trolukovich/nutritional-values-for-common-foods-and-products) and https://www.nutritionvalue.org.
 - Functions are stored in the acquire.py file.
 - File is a reproducible component for gathering the data.
 
