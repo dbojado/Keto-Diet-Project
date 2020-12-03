@@ -1,5 +1,7 @@
-# Keto Diet Project
-### Can we predict if a food is keto friendly?
+[![Header](The_Keto_Diet_Banner.png "Header")](https://danibojado.com/)
+
+# The Keto Diet Project
+Can we predict if a food is keto friendly?
 
 ## What is a Keto Diet?
 The ketogenic diet (keto) is a low carb, high fat diet. Many studies show that this type of diet can help you lose weight and improve your health.
@@ -36,7 +38,7 @@ My goal is to build a model that can predict/classify a food item as "keto frien
 
 ### Prepare
 - Create a prepare.py file. 
-- Cleaned dataset.
+- Clean dataset.
 - Missing values are investigated and handled.
 - Run train, validate, and test.
 - File is a reproducible component that is ready for exploration.
