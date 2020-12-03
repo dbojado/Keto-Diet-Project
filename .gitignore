@@ -1,3 +1,4 @@
+# Gitignore file
 .DS_Store
 .ipynb_checkpoints/
 __pycache__
