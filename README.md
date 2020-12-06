@@ -1,4 +1,4 @@
-[![Header](https://github.com/dbojado/Keto-Diet-Project/blob/main/images/The_Keto_Diet_Banner_2.png "Header")](https://danibojado.com/)
+[![Header](https://github.com/dbojado/Keto-Diet-Project/blob/main/images/The_Keto_Diet_Banner_2.png "Header")](https://www.canva.com/design/DAEPhrgPsOk/NCc1MmlWCpMdEclyl1kbWQ/view?utm_content=DAEPhrgPsOk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 # The Keto Diet Project
 Can we predict if a food is keto friendly?
@@ -11,7 +11,8 @@ The Ketogenic Diet (keto) is a low carb, high fat diet. Many studies show that t
 For this project I will be exploring a "Nutritional Facts" database and using the data to classify whether a food is keto. 
 
 ## Goals
-My goal is to build a model that can predict/classify a food item as "keto friendly".
+- Can we predict if a food is "Keto Friendly" based solely on it's macro percentages from a nutritional facts database?
+- Use a clustering model to answer the question above and find out if certain groupings exist in the data already.
 
 
 ## Deliverables
@@ -49,11 +50,17 @@ My goal is to build a model that can predict/classify a food item as "keto frien
 - Summarize takeaways and conclusions.   
 
 ### Model
-- Fit different models 
-- Build a function 
+- Fit different K-means clustering models. 
+- Choosing k with inertia (the sum of squared distances from each point to it's assigned centroid). 
+- Use elbow method to determine a good value for k.
 
 ### Conclusions
-- we'll see...
+#### What was best model?
+- The K-means, k=4 model, provided the best clustering.
+
+#### How did the findings compare with what is known?
+- Cluster 3 matched up very closely to a ketogenic diet that could be more balanced and substantial in the long-term. 
+- This information might be great for someone who needs help making food choices that are not all just meat, cheese, and eggs.
 
 ### Future Investigations
 - Can other food items be classified under certain diets (vegan, vegetarian, low-carb, etc) using similar methods?
