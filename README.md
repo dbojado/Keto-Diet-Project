@@ -1,4 +1,4 @@
-[![Header](https://github.com/dbojado/Keto-Diet-Project/blob/main/images/The_Keto_Diet_Banner.png "Header")](https://danibojado.com/)
+[![Header](https://github.com/dbojado/Keto-Diet-Project/blob/main/images/The_Keto_Diet_Banner_2.png "Header")](https://danibojado.com/)
 
 # The Keto Diet Project
 Can we predict if a food is keto friendly?
