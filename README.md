@@ -12,7 +12,7 @@ Can we predict if a food is "Keto Friendly"?
 
 ## Goals
 - Predict if a food is "Keto Friendly" based solely on it's macro ratios (in grams) from the given nutritional facts database.
-- Use a clustering model to answer the question above and find out if certain groupings exist in the data.
+- Use a machine learning clustering model to answer the problem above and find out if certain groupings exist in the data.
 
 
 ## Deliverables
