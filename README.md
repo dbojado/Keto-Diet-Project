@@ -46,7 +46,7 @@ Can we predict if a food is "Keto Friendly"?
 
 ### Explore
 - Explore nutritional facts data across over 8.7k different foods.
-- Find macronutrients percentage (carbohydrates, fats, and protein) patterns by creating histograms.
+- Find macronutrients (carbohydrates, fats, and protein) ratio patterns by creating histograms.
 - Summarize takeaways and conclusions.   
 
 ### Model
