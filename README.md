@@ -59,10 +59,20 @@ Can we predict if a food is "Keto Friendly"?
 - The K-means, k=4 model, provided the best clustering.
 
 #### How did the findings compare with what is known?
-- Cluster 1 matched up very closely to a ketogenic diet that could be more balanced and substantial in the long-term. 
+- Cluster 1 matched up very closely to a ketogenic diet that could be more balanced and sustainable in the long-term. 
 - This information might be great for someone who needs help making food choices that are not all just meat, cheese, and eggs.
 
+#### How did the project go? Did you meet your goal? Why or why not?
+- I believed I met my goal of creating a clustering model that could provided a user with a more balanced and sustainable "Keto Friendly" diet. 
+
+#### For each stage of the pipeline, where could you make improvements?
+- Acquire: Obtain a larger dataset. 
+- Prepare: Exclude outliers for further investigation. 
+- Explore: Find more patterns between macros and compare different foods to see which is the "better/healthier" choice.
+- Model: Additional modeling with different macro combinations. 
+
 ### Future Investigations
+#### What are your next steps?
 - Can other food items be classified under certain diets (vegan, vegetarian, low-carb, etc) using similar methods?
 - Could this system be used on an food tracking app to give users suggestions on what food they should be buying depending on what diet they are on? This could take out a lot of the guessing and research that comes with being on a diet and really simplify things for the user. 
 
