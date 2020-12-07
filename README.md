@@ -59,7 +59,7 @@ For this project I will be exploring a "Nutritional Facts" database and using th
 - The K-means, k=4 model, provided the best clustering.
 
 #### How did the findings compare with what is known?
-- Cluster 3 matched up very closely to a ketogenic diet that could be more balanced and substantial in the long-term. 
+- Cluster 1 matched up very closely to a ketogenic diet that could be more balanced and substantial in the long-term. 
 - This information might be great for someone who needs help making food choices that are not all just meat, cheese, and eggs.
 
 ### Future Investigations
