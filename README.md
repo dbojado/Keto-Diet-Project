@@ -1,14 +1,14 @@
 [![Header](https://github.com/dbojado/Keto-Diet-Project/blob/main/images/The_Keto_Diet_Banner_2.png "Header")](https://www.canva.com/design/DAEPhrgPsOk/NCc1MmlWCpMdEclyl1kbWQ/view?utm_content=DAEPhrgPsOk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 # The Keto Diet Project
-- Can we predict if a food is keto friendly?
+Can we predict if a food is "Keto Friendly"?
 
 ## What is a Keto Diet?
 - The Ketogenic Diet (keto) is a low carb, high fat diet. Many studies show that this type of diet can help you lose weight and improve your health.
 
 
 ## About the Project
-- For this project I will be exploring a "Nutritional Facts" database and using the data to classify whether a food is keto. 
+- For this project I will be exploring a "Nutritional Facts" database and using clustering methodologies to predict if a food is "Keto Friendly".
 
 ## Goals
 - Can we predict if a food is "Keto Friendly" based solely on it's macro percentages from a nutritional facts database?
