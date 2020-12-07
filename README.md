@@ -8,11 +8,11 @@ Can we predict if a food is "Keto Friendly"?
 
 
 ## About the Project
-- For this project I will be exploring a "Nutritional Facts" database and using clustering methodologies to predict if a food is "Keto Friendly".
+- For this project I will be exploring a "Nutritional Facts" database and using machine learning clustering methodologies to predict if a food is "Keto Friendly".
 
 ## Goals
-- Can we predict if a food is "Keto Friendly" based solely on it's macro percentages from a nutritional facts database?
-- Use a clustering model to answer the question above and find out if certain groupings exist in the data already.
+- Predict if a food is "Keto Friendly" based solely on it's macro ratios from the given nutritional facts database.
+- Use a clustering model to answer the question above and find out if certain groupings exist in the data.
 
 
 ## Deliverables
