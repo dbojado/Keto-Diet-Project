@@ -1,6 +1,6 @@
 [![Header](https://github.com/dbojado/Keto-Diet-Project/blob/main/images/The_Keto_Diet_Banner_2.png "Header")](https://www.canva.com/design/DAEPhrgPsOk/NCc1MmlWCpMdEclyl1kbWQ/view?utm_content=DAEPhrgPsOk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
-# The Keto Diet Project
+# The Keto Diet Project 
 Can we predict if a food is "Keto Friendly"?
 
 ## What is a Keto Diet?
